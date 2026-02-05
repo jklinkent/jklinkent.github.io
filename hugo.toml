@@ -1,0 +1,28 @@
+baseURL = 'https://yolokent.github.io/'  # 改成你的 GitHub 帳號
+languageCode = 'zh-tw'
+title = 'Kent的部落格'
+theme = 'PaperMod'
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+
+[[menus.main]]
+  name = "首頁"
+  url = "/"
+  weight = 1
+
+[[menus.main]]
+  name = "文章"
+  url = "/posts/"
+  weight = 2
+
+[[menus.main]]
+  name = "關於"
+  url = "/about/"
+  weight = 3
