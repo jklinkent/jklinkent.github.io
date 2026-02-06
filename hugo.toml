@@ -1,6 +1,6 @@
 baseURL = 'https://jklinkent.github.io/'  # 改成你的 GitHub 帳號
 languageCode = 'zh-tw'
-title = 'Kent的部落格'
+title = 'Kent的分享視界'
 theme = 'PaperMod'
 
 [params]
